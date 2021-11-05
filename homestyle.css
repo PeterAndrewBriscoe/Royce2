@@ -1,7 +1,9 @@
 body {
     font-family: 'Zen Antique', serif;
 }
-
+.photo{
+    background-color: lightgray;
+}
 #partners>img {
     height: 100px;
     margin-left: 5px;
